@@ -30,7 +30,7 @@
     width: 1.1rem;
   } 
   .App{
-    background-image: url('src/assets/bg.jpg');
+    background-image: url('bg.jpg');
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0;
