@@ -1,5 +1,5 @@
 .bg{
-  background-image: url('src/assets/bg.jpg');
+  background-image: url('public/bg.jpg');
 }
 .users{
   border:  solid rgba(246, 84, 84, 0.889);
